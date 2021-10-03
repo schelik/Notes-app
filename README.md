@@ -2,5 +2,4 @@
 
 Simple React app hosted on firebase.
 
-![image](https://user-images.githubusercontent.com/27888823/135772694-c0268d85-542f-4b3e-98aa-07724d5b5ba2.png)
-
+![image](https://user-images.githubusercontent.com/27888823/135772781-b6341792-0928-409e-9edc-6cfffe29b70a.png)
